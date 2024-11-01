@@ -1,27 +1,27 @@
 
 command /version:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 
 command /ver:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 
 command /bukkit:ver:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 command /bukkit:version:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 command /bukkit:help:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 command /help:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 command /about:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
 command /bukkit:about:
 	trigger:
-		send "&fLink for MurderMob's Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
+		send "&fLink for &eSite1009's&f Server Plugins: <link:https://emmett1027.github.io/murdermobs/plugins.html>&a[Click Here!]"
